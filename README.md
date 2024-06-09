@@ -11,4 +11,6 @@ Only the following characters are allowed:
 *#!._-
 All other characters are disallowed.
 
+str1list, str2list and strlist3 are the text string files i used to test the shell script i wrote.
+
 Through this task, I demonstrated proficiency in file handling, string manipulation, and error management within the constraints of the specified techniques and utilities.
